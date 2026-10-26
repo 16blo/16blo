@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Tehua Yann Ivann — De l'électronique à la cybersécurité</title>
+<desc id="desc">Étudiant en cybersécurité et sécurité des systèmes d'information. Apprendre, comprendre, construire.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1421"/><stop offset="1" stop-color="#122b33"/></linearGradient><pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#26404b" stroke-opacity=".35"/></pattern></defs>
+<rect width="1200" height="340" rx="24" fill="url(#bg)"/><rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+<path d="M0 0H1200" stroke="#77e3c9" stroke-width="8"/>
+<g fill="none" stroke="#77e3c9" stroke-opacity=".25"><circle cx="1060" cy="170" r="148"/><circle cx="1060" cy="170" r="105"/><path d="M850 60h80l50 50h90l50 50h80M900 285h80l45-45h95l35-35h45"/></g>
+<g fill="#77e3c9"><circle cx="930" cy="60" r="4"/><circle cx="980" cy="285" r="4"/><circle cx="1120" cy="240" r="4"/></g>
+<rect x="1018" y="126" width="84" height="88" rx="19" fill="#122630" stroke="#77e3c9" stroke-opacity=".45"/><text x="1060" y="186" fill="#77e3c9" font-family="Arial,sans-serif" font-size="54" font-weight="700" text-anchor="middle">T.</text>
+<text x="58" y="69" fill="#77e3c9" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3">ÉLECTRONIQUE → CYBERSÉCURITÉ</text>
+<text x="54" y="139" fill="#f1f5f9" font-family="Arial,sans-serif" font-size="56" font-weight="700" letter-spacing="-2">Tehua Yann Ivann</text>
+<text x="58" y="184" fill="#b8c8d7" font-family="Arial,sans-serif" font-size="21">Étudiant en cybersécurité &amp; SSI · INP-HB / EFSPC</text>
+<path d="M58 216h60" stroke="#77e3c9" stroke-width="3"/>
+<text x="58" y="254" fill="#e3eef2" font-family="Arial,sans-serif" font-size="20">Apprendre. Comprendre. Construire.</text>
+<text x="58" y="292" fill="#92a9b7" font-family="Arial,sans-serif" font-size="14" letter-spacing="1">SYSTÈMES / RÉSEAUX / SÉCURITÉ / ÉLECTRONIQUE</text>
+</svg>
